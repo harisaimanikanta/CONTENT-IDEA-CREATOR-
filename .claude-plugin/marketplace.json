@@ -1,0 +1,14 @@
+{
+  "name": "idea-creator",
+  "owner": {
+    "name": "harisaimanikanta"
+  },
+  "plugins": [
+    {
+      "name": "idea-creator",
+      "source": "./",
+      "description": "Finds, fact-checks and scores video ideas for a Historical WTF YouTube Shorts channel (real events that sound fake). Outputs IDEA CARDS for the script-writer skill."
+    }
+  ],
+  "description": "Finds, fact-checks and scores video ideas for a Historical WTF YouTube Shorts channel (real events that sound fake). Outputs IDEA CARDS for the script-writer skill."
+}

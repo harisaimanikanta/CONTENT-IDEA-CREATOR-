@@ -1,0 +1,8 @@
+{
+  "name": "idea-creator",
+  "version": "1.0.0",
+  "description": "Finds, fact-checks and scores video ideas for a Historical WTF YouTube Shorts channel (real events that sound fake). Outputs IDEA CARDS for the script-writer skill.",
+  "author": { "name": "harisaimanikanta" },
+  "repository": "https://github.com/harisaimanikanta/CONTENT-IDEA-CREATOR-",
+  "keywords": ["youtube", "shorts", "history", "ideas", "research"]
+}
