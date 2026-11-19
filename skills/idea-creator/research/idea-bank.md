@@ -106,7 +106,7 @@ Scored with the 5-point fit test. Evidence was checked through search summaries;
 ## Batch 2026-11-19 - mixed (status: idea) - full IDEA CARDS in `research/batches/2026-11-19-mixed.md`
 | # | Story | Category | Fit | Competition | Status |
 |---|---|---|---|---|---|
-| 41 | Barry Marshall drinks H. pylori (1984) | medical | 10 | low | idea |
+| 41 | Barry Marshall drinks H. pylori (1984) | medical | 10 | low | scripted (VIRAL-SCRIPT-WRITER) |
 | 42 | Thomas Midgley's leaded-gasoline demo (1924) | backfired plan | 10 | low | idea |
 | 43 | Bat bomb burns its own base (1943) | military | 9 | low | idea |
 | 44 | Skinner's pigeon-guided missile | invention | 9 | low | idea |
