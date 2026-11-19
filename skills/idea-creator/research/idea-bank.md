@@ -102,6 +102,21 @@ Scored with the 5-point fit test. Evidence was checked through search summaries;
 - Use the existing research (`scripts/eiffel-tower-lustig/`). The reversal is the source twist; the doubt beat is the dealer who went to the police.
 - Fit 7/10 · Competition: high (9+ Shorts)
 
+
+## Batch 2026-11-19 - mixed (status: idea) - full IDEA CARDS in `research/batches/2026-11-19-mixed.md`
+| # | Story | Category | Fit | Competition | Status |
+|---|---|---|---|---|---|
+| 41 | Barry Marshall drinks H. pylori (1984) | medical | 10 | low | idea |
+| 42 | Thomas Midgley's leaded-gasoline demo (1924) | backfired plan | 10 | low | idea |
+| 43 | Bat bomb burns its own base (1943) | military | 9 | low | idea |
+| 44 | Skinner's pigeon-guided missile | invention | 9 | low | idea |
+| 45 | Great Moon Hoax (1835) | hoax | 9 | low | idea |
+| 46 | John Harrison vs the Board of Longitude | invention | 9 | low | idea |
+| 47 | Dagen H, Sweden (1967) | institution | 8 | low | idea |
+| 48 | Cock Lane ghost (1762) | hoax | 8 | unknown | idea |
+| 49 | Cane toads vs cane beetles (1935) | backfired plan | 7 | low | idea |
+| 50 | Alfred Wegener and continental drift | science | 7 | medium | idea |
+
 ---
 
 ## Rejected (never re-pitch without new evidence)
